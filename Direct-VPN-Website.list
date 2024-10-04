@@ -1,7 +1,7 @@
 # NAME: Direct vpn
 # AUTHOR: Azat
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
-# UPDATED: 03.10.2024
+# UPDATED: 04.10.2024
 *avito.ru
 *avtodor-tr.ru
 *bitrix.info
@@ -33,10 +33,16 @@ DOMAIN-KEYWORD,apple.com.edgekey.net
 DOMAIN-KEYWORD,buy.itunes.apple.com
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,icloud.com.akadns.net
-DOMAIN-KEYWORD,icloud.com.akadns.net
 DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,testflight
+DOMAIN-SUFFIX,sso.ya.ru
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,hd.kinopoisk.ru
+DOMAIN-SUFFIX,sso.kinopoisk.ru
+DOMAIN-SUFFIX,api.ott.kinopoisk.ru
+DOMAIN-SUFFIX,graphql.kinopoisk.ru
+DOMAIN-SUFFIX,payment-widget.plus.kinopoisk.ru
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn
