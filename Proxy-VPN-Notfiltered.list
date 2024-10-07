@@ -824,8 +824,8 @@ DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xerox.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
-DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xnxx-ru.com
+DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,xv-ru.com
 DOMAIN-SUFFIX,xvideos-cdn.com
@@ -1432,6 +1432,7 @@ IP-CIDR,185.71.222.0/23,Proxy,no-resolve
 IP-CIDR,185.77.36.0/24,Proxy,no-resolve
 IP-CIDR,185.81.128.108/32,Proxy,no-resolve
 IP-CIDR,185.85.121.13/32,Proxy,no-resolve
+IP-CIDR,185.88.180.0/22,Proxy,no-resolve
 IP-CIDR,185.88.181.2/31,Proxy,no-resolve
 IP-CIDR,185.88.181.4/30,Proxy,no-resolve
 IP-CIDR,185.88.181.8/30,Proxy,no-resolve
