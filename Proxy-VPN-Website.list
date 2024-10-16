@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chickstagram.com
 DOMAIN-SUFFIX,china-facebook.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,click-url.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,como-hackearfacebook.com
@@ -871,7 +872,6 @@ DOMAIN,browser-intake-datadoghq.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,gemini.google.com
-DOMAIN,software.charliemonroe.net
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -880,6 +880,7 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,software.charliemonroe.net
 DOMAIN,static.cloudflareinsights.com
 IP-ASN,20473
 IP-ASN,32934
