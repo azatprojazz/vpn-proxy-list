@@ -38,8 +38,6 @@ DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,trendagent
-DOMAIN-SUFFIX,rhood.su
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.ott.kinopoisk.ru
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn
@@ -50,7 +48,6 @@ DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,dependabot.com
@@ -137,6 +134,7 @@ DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,rhood.su
 DOMAIN-SUFFIX,sso.kinopoisk.ru
 DOMAIN-SUFFIX,sso.ya.ru
 DOMAIN-SUFFIX,stel.com
