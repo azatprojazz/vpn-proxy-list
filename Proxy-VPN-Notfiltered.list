@@ -2,6 +2,7 @@
 # AUTHOR: Azat
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
 # UPDATED: 04.10.2024
+DOMAIN-KEYWORD,freepornvideos
 DOMAIN-SUFFIX,4freerussia.org
 DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,4pda.to
@@ -155,21 +156,15 @@ DOMAIN-SUFFIX,cursorinfo.co.il
 DOMAIN-SUFFIX,cyberghostvpn.com
 DOMAIN-SUFFIX,cyxymu.info
 DOMAIN-SUFFIX,czx.to
-DOMAIN-SUFFIX,freepornvideos.xxx
-DOMAIN-SUFFIX,xv-ru.com
 DOMAIN-SUFFIX,daemon-tools.cc
 DOMAIN-SUFFIX,database.clamav.net
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,deezer.com
-DOMAIN-SUFFIX,vjav.com
 DOMAIN-SUFFIX,delfi.ee
 DOMAIN-SUFFIX,delfi.lt
 DOMAIN-SUFFIX,delfi.lv
-DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,porntop.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dellcdn.com
-DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,devops.com
@@ -429,6 +424,7 @@ DOMAIN-SUFFIX,metla.press
 DOMAIN-SUFFIX,microchip.com
 DOMAIN-SUFFIX,middlewareinventory.com
 DOMAIN-SUFFIX,mignews.com
+DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
@@ -540,6 +536,7 @@ DOMAIN-SUFFIX,politiken.dk
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,porno365.computer
 DOMAIN-SUFFIX,pornolab.net
+DOMAIN-SUFFIX,porntop.com
 DOMAIN-SUFFIX,porsche.com
 DOMAIN-SUFFIX,portal.bgpmon.net
 DOMAIN-SUFFIX,portal.lviv.ua
@@ -673,6 +670,7 @@ DOMAIN-SUFFIX,software.cisco.com
 DOMAIN-SUFFIX,solarwinds.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,spacelift.io
+DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,spektr.press
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spreadthesign.com
@@ -797,6 +795,7 @@ DOMAIN-SUFFIX,vhd.zetflix.online
 DOMAIN-SUFFIX,video.twimg.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vipdrive.net
+DOMAIN-SUFFIX,vjav.com
 DOMAIN-SUFFIX,vndb.org
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,volkswagen-classic-parts.com
@@ -832,6 +831,7 @@ DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xnxx-ru.com
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xtracloud.net
+DOMAIN-SUFFIX,xv-ru.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yaoilib.me
