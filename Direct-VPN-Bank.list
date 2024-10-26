@@ -1,7 +1,6 @@
 # NAME: Direct vpn
 # AUTHOR: Azat
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
-# UPDATED: 04.10.2024
 DOMAIN-SUFFIX,go.unicredit.ru
 DOMAIN-SUFFIX,imb.ru
 DOMAIN-SUFFIX,imbank.ru
