@@ -1,6 +1,8 @@
 # NAME: Proxy vpn
 # AUTHOR: Azat
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
+*instagram.com
+*youtube.com
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,deezer
@@ -1763,6 +1765,4 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*TikTok*
 USER-AGENT,*youtu*
 USER-AGENT,*youtube*
-*youtube.com
-*instagram.com
 USER-AGENT,*YouTubeMusic*
