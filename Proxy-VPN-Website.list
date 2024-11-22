@@ -598,6 +598,7 @@ DOMAIN-SUFFIX,freefblikes.com
 DOMAIN-SUFFIX,freeimages.com
 DOMAIN-SUFFIX,freemedia.io
 DOMAIN-SUFFIX,freemyip.com
+DOMAIN-SUFFIX,freepornvideos.xxx
 DOMAIN-SUFFIX,freindfeed.com
 DOMAIN-SUFFIX,frescolib.org
 DOMAIN-SUFFIX,friendbook.info
@@ -1718,6 +1719,7 @@ IP-CIDR,54.173.34.141/32,Facebook
 IP-CIDR,54.207.168.84/32,Supercell
 IP-CIDR,54.235.23.242/32,Facebook
 IP-CIDR,54.248.64.192/32,Supercell
+IP-CIDR,66.254.96.0/19,Pornhub
 IP-CIDR,69.195.160.0/19,Twitter
 IP-CIDR,74.125.0.0/16,Google
 IP-CIDR,108.168.176.192/26,Facebook
@@ -1751,7 +1753,6 @@ IP-CIDR,162.62.34.10/32,Supercell
 IP-CIDR,169.45.248.118/32,Facebook
 IP-CIDR,172.110.32.0/21,no-resolve,Youtube
 IP-CIDR,173.194.0.0/16,Google
-IP-CIDR,66.254.96.0/19,Pornhub
 IP-CIDR,173.252.64.0/18,Facebook
 IP-CIDR,192.133.76.0/22,Twitter
 IP-CIDR,199.59.148.0/22,Twitter
