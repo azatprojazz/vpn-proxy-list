@@ -1,7 +1,10 @@
 # AUTHOR: Azat
 # NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
+DOMAIN-KEYWORD,dixy.ru
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,lenta.com
+DOMAIN-KEYWORD,magnit.com
 DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,steambroadcast
@@ -9,6 +12,7 @@ DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,trendagent
+DOMAIN-KEYWORD,vprok.ru
 DOMAIN-KEYWORD,yandex
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn

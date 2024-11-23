@@ -1,6 +1,7 @@
 # Блокировка рекламы
-# youtube
-URL-REGEX,^https?:\/\/(\w+\.)?(adclick|ads([0-9]+)?|adx|adserver|adformat|analysis|analytics|banners?|click|counter|delivery|log|log-?\w+?|pagead|stat|stats|statis|trace|track|tracking|uniad)\.\w+\.(com|ru|org|info|io|net|nl|com.nl)
+URL-REGEX,^https?:\/\/.+\.googleapis.com/.+ad_break
+URL-REGEX,^https?:\/\/.+\.googleapis.com/.+log_event
+URL-REGEX,^https?:\/\/.+\.googleapis.com/adsmeasurement
 URL-REGEX,^https?:\/\/.+\.googlevideo\.com\/.+oad=
 URL-REGEX,^https?:\/\/.+\.googlevideo\.com\/.+owc=
 URL-REGEX,^https?:\/\/.+\.googlevideo\.com\/ptracking
@@ -18,6 +19,4 @@ URL-REGEX,^https?:\/\/.+\.youtube\.com\/get_midroll
 URL-REGEX,^https?:\/\/.+\.youtube\.com\/pagead
 URL-REGEX,^https?:\/\/.+\.youtube\.com\/pcs\/activeview
 URL-REGEX,^https?:\/\/.+\.youtube\.com\/ptracking
-URL-REGEX,^https?:\/\/.+\.googleapis.com/.+ad_break
-URL-REGEX,^https?:\/\/.+\.googleapis.com/.+log_event
-URL-REGEX,^https?:\/\/.+\.googleapis.com/adsmeasurement
+URL-REGEX,^https?:\/\/(\w+\.)?(adclick|ads([0-9]+)?|adx|adserver|adformat|analysis|analytics|banners?|click|counter|delivery|log|log-?\w+?|pagead|stat|stats|statis|trace|track|tracking|uniad)\.\w+\.(com|ru|org|info|io|net|nl|com.nl)
