@@ -81,6 +81,8 @@ DOMAIN,apps.apple.com
 DOMAIN,buy.itunes.apple.com
 DOMAIN,cloud.mail.ru
 DOMAIN,docs.google.com
+DOMAIN,echat.etagi.com
+DOMAIN,education.etagi.com
 DOMAIN,gc.apple.com
 DOMAIN,hd.kinopoisk.ru
 DOMAIN,icloud.apple.com
@@ -91,6 +93,7 @@ DOMAIN,itunes.apple.com
 DOMAIN,iwork.apple.com
 DOMAIN,mail.icloud.com.cn
 DOMAIN,metro.spb.ru
+DOMAIN,oauth2.esoft.tech
 DOMAIN,payment-widget.plus.kinopoisk.ru
 DOMAIN,sso.kinopoisk.ru
 DOMAIN,sso.ya.ru
