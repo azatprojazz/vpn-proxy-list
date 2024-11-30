@@ -1,5 +1,5 @@
-# NAME: Direct vpn
 # AUTHOR: Azat
+# NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
 DOMAIN-SUFFIX,акибанк.рф
 DOMAIN-SUFFIX,александровский-банк.рф
@@ -76,9 +76,9 @@ DOMAIN-SUFFIX,bank-mscb.ru
 DOMAIN-SUFFIX,bank-peresvet.ru
 DOMAIN-SUFFIX,bank-rc.ru
 DOMAIN-SUFFIX,bank-rk.ru
-DOMAIN-SUFFIX,bank45.ru
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,bank131.ru
+DOMAIN-SUFFIX,bank45.ru
 DOMAIN-SUFFIX,bankauto.ru
 DOMAIN-SUFFIX,bankd.ru
 DOMAIN-SUFFIX,bankdolinsk.ru
@@ -309,6 +309,7 @@ DOMAIN-SUFFIX,sstb-bank.ru
 DOMAIN-SUFFIX,system-bank.ru
 DOMAIN-SUFFIX,tagbank.ru
 DOMAIN-SUFFIX,tatsotsbank.ru
+DOMAIN-SUFFIX,tbank.ru
 DOMAIN-SUFFIX,texbank.ru
 DOMAIN-SUFFIX,thbank.ru
 DOMAIN-SUFFIX,timerbank.ru
