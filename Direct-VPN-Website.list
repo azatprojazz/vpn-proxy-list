@@ -1,13 +1,13 @@
 # AUTHOR: Azat
 # NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
-DOMAIN-KEYWORD,dixy.ru
+DOMAIN-SUFFIX,dixy.ru
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,lenta.com
-DOMAIN-KEYWORD,magnit.com
+DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,magnit.com
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,trendagent
-DOMAIN-KEYWORD,vprok.ru
+DOMAIN-SUFFIX,vprok.ru
 DOMAIN-KEYWORD,yandex
 DOMAIN-SUFFIX,101DOMAIN.COM
 DOMAIN-SUFFIX,1cloud.ru
