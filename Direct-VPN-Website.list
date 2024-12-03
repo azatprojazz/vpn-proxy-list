@@ -999,8 +999,6 @@ USER-AGENT,*com.apple.Maps?
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,*Google.Drive*
 USER-AGENT,*Music?
-USER-AGENT,*org
-USER-AGENT,*ru
 USER-AGENT,*WeatherFoundation*
 USER-AGENT,AppleNews*
 USER-AGENT,AppleTV*
