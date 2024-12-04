@@ -1,13 +1,9 @@
 # AUTHOR: Azat
 # NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
-DOMAIN-SUFFIX,dixy.ru
 DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,lenta.com
-DOMAIN-SUFFIX,magnit.com
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,trendagent
-DOMAIN-SUFFIX,vprok.ru
 DOMAIN-KEYWORD,yandex
 DOMAIN-SUFFIX,101DOMAIN.COM
 DOMAIN-SUFFIX,1cloud.ru
@@ -218,6 +214,7 @@ DOMAIN-SUFFIX,di-net.ru
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitalone.com
 DOMAIN-SUFFIX,disneyinternational.net
+DOMAIN-SUFFIX,dixy.ru
 DOMAIN-SUFFIX,dlink.ru
 DOMAIN-SUFFIX,dns-parking.com
 DOMAIN-SUFFIX,dns-shop.ru
@@ -432,6 +429,7 @@ DOMAIN-SUFFIX,labirint.ru
 DOMAIN-SUFFIX,lamoda.ru
 DOMAIN-SUFFIX,lavtech.ru
 DOMAIN-SUFFIX,layer6.net
+DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,leroymerlin.ru
 DOMAIN-SUFFIX,lexus.ru
 DOMAIN-SUFFIX,lib.ru
@@ -450,6 +448,7 @@ DOMAIN-SUFFIX,m-10.ru
 DOMAIN-SUFFIX,m1cloud.net
 DOMAIN-SUFFIX,macomnet.ru
 DOMAIN-SUFFIX,magiachisel.ru
+DOMAIN-SUFFIX,magnit.com
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,majordomo.ru
 DOMAIN-SUFFIX,mamba.ru
@@ -505,6 +504,7 @@ DOMAIN-SUFFIX,mosigra.ru
 DOMAIN-SUFFIX,mosmetro.ru
 DOMAIN-SUFFIX,mosreg.media
 DOMAIN-SUFFIX,mostcom.ru
+DOMAIN-SUFFIX,mountainduck.io
 DOMAIN-SUFFIX,moyareklama.ru
 DOMAIN-SUFFIX,msu.ru
 DOMAIN-SUFFIX,mts.ru
@@ -831,6 +831,7 @@ DOMAIN-SUFFIX,vmts.ru
 DOMAIN-SUFFIX,volganet.ru
 DOMAIN-SUFFIX,volkswagen.de
 DOMAIN-SUFFIX,vostbank.ru
+DOMAIN-SUFFIX,vprok.ru
 DOMAIN-SUFFIX,vps-private.net
 DOMAIN-SUFFIX,vps-server.ru
 DOMAIN-SUFFIX,vpsville.ru
