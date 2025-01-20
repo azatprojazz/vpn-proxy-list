@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,101DOMAIN.COM
 DOMAIN-SUFFIX,1cloud.ru
 DOMAIN-SUFFIX,1gb.ru
 DOMAIN-SUFFIX,1gb.ua
-DOMAIN-SUFFIX,smotrim.ru
 DOMAIN-SUFFIX,1popov.com
 DOMAIN-SUFFIX,1sept.net
 DOMAIN-SUFFIX,24open.ru
@@ -730,6 +729,7 @@ DOMAIN-SUFFIX,sitepokupok.ru
 DOMAIN-SUFFIX,sknt.ru
 DOMAIN-SUFFIX,slweb.ru
 DOMAIN-SUFFIX,smartape.ru
+DOMAIN-SUFFIX,smotrim.ru
 DOMAIN-SUFFIX,snowqueen.ru
 DOMAIN-SUFFIX,snparking.ru
 DOMAIN-SUFFIX,sobaka.ru
@@ -891,6 +891,7 @@ DOMAIN,agava.net.ru
 DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com
 DOMAIN,apps.apple.com
+DOMAIN,appstorrent.ru
 DOMAIN,asv.org.ru
 DOMAIN,awsdns-01.co.uk
 DOMAIN,awsdns-19.co.uk
