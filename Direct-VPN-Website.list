@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,applemx-icloud.com
+DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,aradio.ru
 DOMAIN-SUFFIX,artaban.ru
 DOMAIN-SUFFIX,as50464.net
@@ -311,6 +312,7 @@ DOMAIN-SUFFIX,gemius.pl
 DOMAIN-SUFFIX,germany.ru
 DOMAIN-SUFFIX,gibdd.ru
 DOMAIN-SUFFIX,gifts.ru
+DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gigedns.net
 DOMAIN-SUFFIX,gismeteo.ru
 DOMAIN-SUFFIX,git.io
@@ -891,7 +893,6 @@ DOMAIN,agava.net.ru
 DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com
 DOMAIN,apps.apple.com
-DOMAIN,appstorrent.ru
 DOMAIN,asv.org.ru
 DOMAIN,awsdns-01.co.uk
 DOMAIN,awsdns-19.co.uk
