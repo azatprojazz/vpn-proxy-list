@@ -1011,6 +1011,7 @@ DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN-SUFFIX,worldhack.com
 DOMAIN-SUFFIX,wpengine.com
 DOMAIN-SUFFIX,wunderground.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xerox.com
@@ -1128,6 +1129,7 @@ DOMAIN,fw-update.ubnt.com
 DOMAIN,gallery.zetalliance.org
 DOMAIN,game.brawlstarsgame.com
 DOMAIN,gateway.facebook.com
+DOMAIN,gemini.google.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,gllto.glpals.com
@@ -1314,6 +1316,7 @@ DOMAIN,youtubego.com.br
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 IP-ASN,32934,Facebook
+IP-CIDR,104.16.0.0/12,Grok-AI
 IP-CIDR,108.168.176.192/26,Facebook
 IP-CIDR,108.168.177.0/27,Facebook
 IP-CIDR,108.168.180.96/27,Facebook
@@ -1328,6 +1331,7 @@ IP-CIDR,129.134.0.0/17,Facebook
 IP-CIDR,13.210.25.233/32,Supercell
 IP-CIDR,13.212.170.102/32,Supercell
 IP-CIDR,13.212.171.212/32,Supercell
+IP-CIDR,142.250.0.0/15,Gemini-AI
 IP-CIDR,142.250.0.0/15,Youtube
 IP-CIDR,142.250.0.0/16,Youtube
 IP-CIDR,142.251.0.0/17,Youtube
