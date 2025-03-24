@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,babook.org
 DOMAIN-SUFFIX,baginya.org
 DOMAIN-SUFFIX,bato.to
 DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,beeg.com
 DOMAIN-SUFFIX,bell-sw.com
 DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,bestbuy.com
@@ -744,10 +745,15 @@ DOMAIN-SUFFIX,plab.site
 DOMAIN-SUFFIX,plugshare.com
 DOMAIN-SUFFIX,polit.ru
 DOMAIN-SUFFIX,politiken.dk
+DOMAIN-SUFFIX,porndoe.com
+DOMAIN-SUFFIX,pornhat.com
+DOMAIN-SUFFIX,pornhits.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,porno365.computer
+DOMAIN-SUFFIX,porno365x.ru
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,porntop.com
+DOMAIN-SUFFIX,porntrex.com
 DOMAIN-SUFFIX,porsche.com
 DOMAIN-SUFFIX,posle.media
 DOMAIN-SUFFIX,postfix.org
@@ -902,6 +908,7 @@ DOMAIN-SUFFIX,svoboda.org
 DOMAIN-SUFFIX,svtv.org
 DOMAIN-SUFFIX,swagger.io
 DOMAIN-SUFFIX,swissinfo.ch
+DOMAIN-SUFFIX,sxyprn.net
 DOMAIN-SUFFIX,sysdig.com
 DOMAIN-SUFFIX,t-ru.org
 DOMAIN-SUFFIX,t.co
@@ -956,6 +963,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twirpx.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,txxx.com
 DOMAIN-SUFFIX,ufile.io
 DOMAIN-SUFFIX,underver.se
 DOMAIN-SUFFIX,unian.net
@@ -986,6 +994,7 @@ DOMAIN-SUFFIX,vpngate.net
 DOMAIN-SUFFIX,vpngen.org
 DOMAIN-SUFFIX,vpnlove.me
 DOMAIN-SUFFIX,vrv.co
+DOMAIN-SUFFIX,vxxx.com
 DOMAIN-SUFFIX,vyos.io
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,walmart.com
@@ -997,6 +1006,7 @@ DOMAIN-SUFFIX,webnames.ca
 DOMAIN-SUFFIX,welt.de
 DOMAIN-SUFFIX,wetransfer.com
 DOMAIN-SUFFIX,wheather.com
+DOMAIN-SUFFIX,whoreshub.com
 DOMAIN-SUFFIX,whyfacebook.com
 DOMAIN-SUFFIX,wikiart.org
 DOMAIN-SUFFIX,wikidot.com
@@ -1140,6 +1150,7 @@ DOMAIN,helm.releases.hashicorp.com
 DOMAIN,holod.global.ssl.fastly.net
 DOMAIN,host.livekit.cloud
 DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN,hub.huyamba.mobi
 DOMAIN,i.ytimg.com
 DOMAIN,ichef.bbci.co.uk
 DOMAIN,id.cisco.com
