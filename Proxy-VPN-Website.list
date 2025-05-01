@@ -8,7 +8,6 @@ DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,freepornvideos
-DOMAIN-KEYWORD,sharewood
 DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,instagram
@@ -16,6 +15,7 @@ DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,raycast
+DOMAIN-KEYWORD,sharewood
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,youtube
@@ -59,7 +59,6 @@ DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-SUFFIX,amazfitwatchfaces.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amd.com
-DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,amdm.ru
 DOMAIN-SUFFIX,amnezia.org
 DOMAIN-SUFFIX,amx.com
@@ -598,6 +597,7 @@ DOMAIN-SUFFIX,makeitopen.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,mangahub.ru
 DOMAIN-SUFFIX,mangapark.net
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,markzuckerberg.com
 DOMAIN-SUFFIX,mattermost.com
 DOMAIN-SUFFIX,maxmind.com
@@ -956,6 +956,7 @@ DOMAIN-SUFFIX,tsmc.com
 DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,tuta.com
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tvfreedom.io
 DOMAIN-SUFFIX,tvrain.ru
@@ -1086,6 +1087,7 @@ DOMAIN,api.twitter.com
 DOMAIN,apis.google.com
 DOMAIN,app.m3u.in
 DOMAIN,app.paraswap.io
+DOMAIN,app.tuta.com
 DOMAIN,app.zerossl.com
 DOMAIN,apt.releases.hashicorp.com
 DOMAIN,arc.intel.com
