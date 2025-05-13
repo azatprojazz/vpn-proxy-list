@@ -979,6 +979,7 @@ DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,vectorworks.net
 DOMAIN-SUFFIX,veeam.com
 DOMAIN-SUFFIX,velocidrone.com
+DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,veritas.com
 DOMAIN-SUFFIX,verstka.media
 DOMAIN-SUFFIX,vesma.one
@@ -1407,6 +1408,7 @@ IP-CIDR,54.93.124.31/32,Facebook
 IP-CIDR,66.254.96.0/19,Pornhub
 IP-CIDR,69.195.160.0/19,Twitter
 IP-CIDR,74.125.0.0/16,Google
+IP-CIDR,76.76.21.0/24,Windsurf
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*TikTok*
 USER-AGENT,*youtu*
