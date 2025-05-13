@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,cloudex.cc
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cock.li
+DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,como-hackearfacebook.com
@@ -1379,6 +1380,7 @@ IP-CIDR,18.141.176.65/32,Supercell
 IP-CIDR,18.156.137.147/32,Supercell
 IP-CIDR,18.231.148.103/32,Supercell
 IP-CIDR,192.133.76.0/22,Twitter
+IP-CIDR,198.18.0.3/32,Windsurf
 IP-CIDR,199.59.148.0/22,Twitter
 IP-CIDR,199.96.56.0/21,Twitter
 IP-CIDR,202.160.128.0/22,Twitter
@@ -1408,7 +1410,6 @@ IP-CIDR,54.93.124.31/32,Facebook
 IP-CIDR,66.254.96.0/19,Pornhub
 IP-CIDR,69.195.160.0/19,Twitter
 IP-CIDR,74.125.0.0/16,Google
-IP-CIDR,76.76.21.0/24,Windsurf
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*TikTok*
 USER-AGENT,*youtu*
