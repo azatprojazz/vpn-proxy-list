@@ -598,7 +598,6 @@ DOMAIN-SUFFIX,makeitopen.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,mangahub.ru
 DOMAIN-SUFFIX,mangapark.net
-DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,markzuckerberg.com
 DOMAIN-SUFFIX,mattermost.com
 DOMAIN-SUFFIX,maxmind.com
@@ -1018,7 +1017,6 @@ DOMAIN-SUFFIX,wikiart.org
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,wilsoncenter.org
 DOMAIN-SUFFIX,windguru.cz
-DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,wixmp.com
 DOMAIN-SUFFIX,wk.cz
@@ -1148,7 +1146,6 @@ DOMAIN,fw-update.ubnt.com
 DOMAIN,gallery.zetalliance.org
 DOMAIN,game.brawlstarsgame.com
 DOMAIN,gateway.facebook.com
-DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,gllto.glpals.com
 DOMAIN,google.play.com
@@ -1336,7 +1333,6 @@ DOMAIN,youtubego.com.br
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 IP-ASN,32934,Facebook
-IP-CIDR,104.16.0.0/12,Grok-AI
 IP-CIDR,108.168.176.192/26,Facebook
 IP-CIDR,108.168.177.0/27,Facebook
 IP-CIDR,108.168.180.96/27,Facebook
@@ -1351,7 +1347,6 @@ IP-CIDR,129.134.0.0/17,Facebook
 IP-CIDR,13.210.25.233/32,Supercell
 IP-CIDR,13.212.170.102/32,Supercell
 IP-CIDR,13.212.171.212/32,Supercell
-IP-CIDR,142.250.0.0/15,Gemini-AI
 IP-CIDR,142.250.0.0/15,Youtube
 IP-CIDR,142.250.0.0/16,Youtube
 IP-CIDR,142.251.0.0/17,Youtube
@@ -1380,7 +1375,6 @@ IP-CIDR,18.141.176.65/32,Supercell
 IP-CIDR,18.156.137.147/32,Supercell
 IP-CIDR,18.231.148.103/32,Supercell
 IP-CIDR,192.133.76.0/22,Twitter
-IP-CIDR,198.18.0.3/32,Windsurf
 IP-CIDR,199.59.148.0/22,Twitter
 IP-CIDR,199.96.56.0/21,Twitter
 IP-CIDR,202.160.128.0/22,Twitter
@@ -1412,6 +1406,7 @@ IP-CIDR,69.195.160.0/19,Twitter
 IP-CIDR,74.125.0.0/16,Google
 URL-REGEX,.*gemini.*?
 URL-REGEX,.*grok.*?
+URL-REGEX,.*manus.*?
 URL-REGEX,.*windsurf.*?
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*TikTok*
