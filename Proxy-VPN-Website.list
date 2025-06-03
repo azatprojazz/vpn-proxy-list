@@ -1,21 +1,33 @@
-# AUTHOR: Azat
+# AUTHOR: Azatprojazz
 # NAME: Proxy vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,deezer
 DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,freepornvideos
 DOMAIN-KEYWORD,gameloft
+DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,kahoot
-DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,manus
+DOMAIN-KEYWORD,notion
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,papervpn
 DOMAIN-KEYWORD,raycast
 DOMAIN-KEYWORD,sharewood
 DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,supercell
 DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,windsurf
+DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,24.kg
@@ -157,7 +169,6 @@ DOMAIN-SUFFIX,dacebook.com
 DOMAIN-SUFFIX,daemon-tools.cc
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,delfi.ee
 DOMAIN-SUFFIX,delfi.lt
 DOMAIN-SUFFIX,delfi.lv
@@ -170,17 +181,6 @@ DOMAIN-SUFFIX,digikey.com
 DOMAIN-SUFFIX,digitalcontent.sky
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,dis.gd
-DOMAIN-SUFFIX,discord-activities.com
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordactivities.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.io
-DOMAIN-SUFFIX,discordapp.net
-DOMAIN-SUFFIX,discordcdn.com
-DOMAIN-SUFFIX,discordmerch.com
-DOMAIN-SUFFIX,discordpartygames.com
-DOMAIN-SUFFIX,discordsays.com
-DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,discours.io
 DOMAIN-SUFFIX,disctech.com
 DOMAIN-SUFFIX,dobrochan.net
@@ -214,13 +214,11 @@ DOMAIN-SUFFIX,expresswifi.com
 DOMAIN-SUFFIX,f.vision
 DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,f8.com
-DOMAIN-SUFFIX,facfebook.com
 DOMAIN-SUFFIX,faciometrics.com
 DOMAIN-SUFFIX,fast-torrent.club
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fasttext.cc
-DOMAIN-SUFFIX,favebook.com
 DOMAIN-SUFFIX,faycbok.com
 DOMAIN-SUFFIX,fb.careers
 DOMAIN-SUFFIX,fb.com
@@ -229,8 +227,6 @@ DOMAIN-SUFFIX,fbacebook.com
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbbmarket.com
 DOMAIN-SUFFIX,fbboostyourbusiness.com
-DOMAIN-SUFFIX,fbcdn.com
-DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbf8.com
 DOMAIN-SUFFIX,fbfeedback.com
 DOMAIN-SUFFIX,fbhome.com
@@ -241,16 +237,7 @@ DOMAIN-SUFFIX,fbinnovation.com
 DOMAIN-SUFFIX,fblitho.com
 DOMAIN-SUFFIX,fbmarketing.com
 DOMAIN-SUFFIX,fbmessenger.com
-DOMAIN-SUFFIX,fbredex.com
-DOMAIN-SUFFIX,fbreg.com
-DOMAIN-SUFFIX,fbrell.com
-DOMAIN-SUFFIX,fbrpms.com
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbsbx.net
 DOMAIN-SUFFIX,fbsupport-covid.net
-DOMAIN-SUFFIX,fbthirdpartypixel.com
-DOMAIN-SUFFIX,fbthirdpartypixel.net
-DOMAIN-SUFFIX,fbthirdpartypixel.org
 DOMAIN-SUFFIX,fburl.com
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,featuregates.org
@@ -284,10 +271,6 @@ DOMAIN-SUFFIX,fork.pet
 DOMAIN-SUFFIX,forklog.com
 DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,fortanga.org
-DOMAIN-SUFFIX,fosebook.com
-DOMAIN-SUFFIX,fpacebook.com
-DOMAIN-SUFFIX,fqcebook.com
-DOMAIN-SUFFIX,fracebook.com
 DOMAIN-SUFFIX,freeb.com
 DOMAIN-SUFFIX,freebasics.com
 DOMAIN-SUFFIX,freebasics.net
@@ -297,7 +280,6 @@ DOMAIN-SUFFIX,freefblikes.com
 DOMAIN-SUFFIX,freeimages.com
 DOMAIN-SUFFIX,freemedia.io
 DOMAIN-SUFFIX,freemyip.com
-DOMAIN-SUFFIX,freepornvideos.xxx
 DOMAIN-SUFFIX,freindfeed.com
 DOMAIN-SUFFIX,frescolib.org
 DOMAIN-SUFFIX,friendbook.info
@@ -382,8 +364,6 @@ DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,iichan.hk
 DOMAIN-SUFFIX,ilook.tv
 DOMAIN-SUFFIX,important-stories.com
-DOMAIN-SUFFIX,imstagram.com
-DOMAIN-SUFFIX,imtagram.com
 DOMAIN-SUFFIX,infineon.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intel.de
@@ -518,11 +498,6 @@ DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,nitropdf.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nordvpn.com
-DOMAIN-SUFFIX,notion-static.com
-DOMAIN-SUFFIX,notion.com
-DOMAIN-SUFFIX,notion.new
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,novaya.no
 DOMAIN-SUFFIX,novayagazeta.eu
 DOMAIN-SUFFIX,novayagazeta.ru
@@ -560,7 +535,6 @@ DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onlinesim.ru
 DOMAIN-SUFFIX,onshape.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opengraphprotocol.com
 DOMAIN-SUFFIX,opengraphprotocol.org
@@ -744,7 +718,6 @@ DOMAIN-SUFFIX,spacelift.io
 DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,spektr.press
 DOMAIN-SUFFIX,sportstream.com
-DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spreadthesign.com
 DOMAIN-SUFFIX,sputnikipogrom.com
 DOMAIN-SUFFIX,squadbustersgame.com
@@ -787,7 +760,6 @@ DOMAIN-SUFFIX,threema.ch
 DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,timberland.com
 DOMAIN-SUFFIX,tjournal.ru
 DOMAIN-SUFFIX,tmdb.org
@@ -911,7 +883,6 @@ DOMAIN,abs-zero.twimg.com
 DOMAIN,abs.twimg.com
 DOMAIN,account-api.protonmail.com
 DOMAIN,account.protonmail.com
-DOMAIN,accounts.spotify.com
 DOMAIN,afcs.dellcdn.com
 DOMAIN,aftermarket.schaeffler.com
 DOMAIN,aftermarket.zf.com
@@ -920,7 +891,6 @@ DOMAIN,api.app.prod.grazie.aws.intellij.net
 DOMAIN,api.github.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.home-connect.com
-DOMAIN,api.openai.com
 DOMAIN,api.protonmail.ch
 DOMAIN,api.radarr.video
 DOMAIN,api.statsig.com
@@ -933,8 +903,6 @@ DOMAIN,apt.releases.hashicorp.com
 DOMAIN,arc.intel.com
 DOMAIN,artifacts.elastic.co
 DOMAIN,auth.grazie.ai
-DOMAIN,auth.openai.com
-DOMAIN,auth0.openai.com
 DOMAIN,bbc.co.uk
 DOMAIN,bbci.co.uk
 DOMAIN,bt.t-ru.org
@@ -944,8 +912,6 @@ DOMAIN,bt4.t-ru.org
 DOMAIN,builds.parsec.app
 DOMAIN,cdn.oaistatic.com
 DOMAIN,cdn.usefathom.com
-DOMAIN,chat.openai.com
-DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,chatgpt.livekit.cloud
 DOMAIN,checkout.buckaroo.nl
 DOMAIN,client-api.arkoselabs.com
@@ -954,7 +920,6 @@ DOMAIN,community.cisco.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,cursorinfo.co.il
 DOMAIN,database.clamav.net
-DOMAIN,discordapp.page.link
 DOMAIN,dist.torproject.org
 DOMAIN,docker.elastic.co
 DOMAIN,docs.redis.com
@@ -969,7 +934,6 @@ DOMAIN,edge.microsoft.com
 DOMAIN,edgeservices.bing.com
 DOMAIN,event.on24.com
 DOMAIN,events.statsigapi.net
-DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,files.oaiusercontent.com
 DOMAIN,firefly-ps.adobe.io
 DOMAIN,forum.voynaplemyon.com
@@ -983,7 +947,6 @@ DOMAIN,hd.zetfix.online
 DOMAIN,helm.releases.hashicorp.com
 DOMAIN,holod.global.ssl.fastly.net
 DOMAIN,host.livekit.cloud
-DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,hub.huyamba.mobi
 DOMAIN,i.ytimg.com
 DOMAIN,ichef.bbci.co.uk
@@ -992,7 +955,6 @@ DOMAIN,ill.in.ua
 DOMAIN,image.tmdb.org
 DOMAIN,interactivebrokers.co.uk
 DOMAIN,interfax.com.ua
-DOMAIN,ios.chat.openai.com
 DOMAIN,ip6.static.sl-reverse.com
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -1009,15 +971,8 @@ DOMAIN,myworld-portal.leica-geosystems.com
 DOMAIN,neformat.com.ua
 DOMAIN,newsru.co.il
 DOMAIN,nyaa.tracker.wf
-DOMAIN,open.spotify.com
-DOMAIN,openai-api.arkoselabs.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicom.imgix.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,openwrt.wk.cz
 DOMAIN,os.mbed.com
-DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,packages.gitlab.com
 DOMAIN,path3.xtracloud.net
 DOMAIN,patriot.dp.ua
@@ -1027,7 +982,6 @@ DOMAIN,plugins.jetbrains.com
 DOMAIN,portal.bgpmon.net
 DOMAIN,portal.lviv.ua
 DOMAIN,pravda.com.ua
-DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,radarr.servarr.com
 DOMAIN,raw-data.gitlab.io
 DOMAIN,registry.terraform.io
@@ -1058,7 +1012,6 @@ DOMAIN,support.xerox.com
 DOMAIN,svidomi.in.ua
 DOMAIN,svoi.kr.ua
 DOMAIN,sydney.bing.com
-DOMAIN,tcr9i.chat.openai.com
 DOMAIN,tools.cisco.com
 DOMAIN,tr.anidub.com
 DOMAIN,tracker.opentrackr.org
@@ -1070,17 +1023,6 @@ DOMAIN,video.twimg.com
 DOMAIN,weblance.com.ua
 DOMAIN,wwv.rusporno.org
 DOMAIN,yt3.ggpht.com
-IP-CIDR,66.254.96.0/19,Pornhub
-URL-REGEX,*facebook*
-URL-REGEX,*gemini*
-URL-REGEX,*google*
-URL-REGEX,*grok*
-URL-REGEX,*instagram*
-URL-REGEX,*manus*
-URL-REGEX,*supercell*
-URL-REGEX,*twitter*
-URL-REGEX,*windsurf*
-URL-REGEX,*youtube*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*TikTok*
 USER-AGENT,*youtu*
