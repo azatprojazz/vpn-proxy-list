@@ -1,6 +1,7 @@
 # AUTHOR: Azatprojazz
 # NAME: Proxy vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
+DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,deezer
@@ -58,7 +59,6 @@ DOMAIN-SUFFIX,alberta.ca
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,alphacoders.com
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amdm.ru
 DOMAIN-SUFFIX,amnezia.org
