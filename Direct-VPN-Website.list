@@ -2,7 +2,6 @@
 # NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
 DOMAIN-KEYWORD,awsdns
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,kinopoisk
 DOMAIN-KEYWORD,kinopub
 DOMAIN-KEYWORD,telegram
