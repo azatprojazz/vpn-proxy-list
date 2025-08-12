@@ -1,0 +1,22 @@
+# AUTHOR: Azatprojazz
+# NAME: Proxy vpn
+# REPO: https://github.com/azatprojazz/vpn-proxy-list
+DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,lh3.googleusercontent.com
+DOMAIN-SUFFIX,lh5.googleusercontent.com
+DOMAIN-SUFFIX,lhr3.googleusercontent.com
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,www.gstatic.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,accounts.google.com
+DOMAIN,aiplatform.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,oauth2.googleapis.com
