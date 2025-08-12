@@ -1,8 +1,6 @@
 # AUTHOR: Azatprojazz
 # NAME: Proxy vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,accounts.youtube.com
 DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,android.clients.google.com
@@ -42,7 +40,6 @@ DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,www.googleapis.com
 DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN,accounts.google.com
 DOMAIN,aiplatform.googleapis.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,gemini.google.com
