@@ -18,7 +18,7 @@ DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,google,USAVPN
 DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,kahoot
@@ -953,7 +953,6 @@ IP-CIDR,162.62.33.70/32,Supercell
 IP-CIDR,162.62.34.10/32,Supercell
 IP-CIDR,169.45.248.118/32,Facebook
 IP-CIDR,172.110.32.0/21,no-resolve,Youtube
-IP-CIDR,173.194.0.0/16,Google
 IP-CIDR,173.252.64.0/18,Facebook
 IP-CIDR,18.141.176.65/32,Supercell
 IP-CIDR,18.156.137.147/32,Supercell
@@ -987,7 +986,6 @@ IP-CIDR,54.248.64.192/32,Supercell
 IP-CIDR,54.93.124.31/32,Facebook
 IP-CIDR,66.254.96.0/19,Pornhub
 IP-CIDR,69.195.160.0/19,Twitter
-IP-CIDR,74.125.0.0/16,Google
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*TikTok*
 USER-AGENT,*youtu*
