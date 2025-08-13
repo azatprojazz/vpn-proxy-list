@@ -1,7 +1,11 @@
 # AUTHOR: Azatprojazz
 # NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
+DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,awsdns
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,kinopoisk
 DOMAIN-KEYWORD,kinopub
 DOMAIN-KEYWORD,mountainduck
@@ -49,11 +53,6 @@ DOMAIN-SUFFIX,altstu.ru
 DOMAIN-SUFFIX,amic.ru
 DOMAIN-SUFFIX,anolink.ru
 DOMAIN-SUFFIX,anycastns1.org
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,appleicloud.cn
-DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,aradio.ru
 DOMAIN-SUFFIX,artaban.ru
@@ -100,7 +99,6 @@ DOMAIN-SUFFIX,canon-europa.com
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,caravan.ru
 DOMAIN-SUFFIX,cdcom.ru
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdnetdns.net
 DOMAIN-SUFFIX,cea.ru
 DOMAIN-SUFFIX,centre.ru
@@ -249,10 +247,7 @@ DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gksmdns.com
 DOMAIN-SUFFIX,gldn.net
 DOMAIN-SUFFIX,go2land.com
-DOMAIN-SUFFIX,goldapple.ru
 DOMAIN-SUFFIX,goodnet.ru
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,googledomains.com
 DOMAIN-SUFFIX,gosuslugi.ru
 DOMAIN-SUFFIX,gov.ru
 DOMAIN-SUFFIX,gratisdns.dk
@@ -282,7 +277,6 @@ DOMAIN-SUFFIX,hse.ru
 DOMAIN-SUFFIX,hsmedia.ru
 DOMAIN-SUFFIX,ht-systems.ru
 DOMAIN-SUFFIX,i7.ru
-DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud.com
@@ -790,10 +784,7 @@ DOMAIN,24open.rz.su
 DOMAIN,adc.spb.ru
 DOMAIN,adidas.noris.de
 DOMAIN,agava.net.ru
-DOMAIN,appleid.apple.com
-DOMAIN,apps.apple.com
 DOMAIN,asv.org.ru
-DOMAIN,buy.itunes.apple.com
 DOMAIN,colo.logol.ru
 DOMAIN,corp.autopiter.ru
 DOMAIN,dinau.kiev.ua
@@ -805,18 +796,14 @@ DOMAIN,ess.infra.cgn.travian.info
 DOMAIN,etm.spb.ru
 DOMAIN,ext.philips.com
 DOMAIN,festu.khv.ru
-DOMAIN,gc.apple.com
 DOMAIN,gov.spb.ru
 DOMAIN,h74.hvosting.ua
 DOMAIN,h82.hvosting.ua
 DOMAIN,h88.hvosting.ua
-DOMAIN,icloud.apple.com
 DOMAIN,iis.cbr.ru
 DOMAIN,infoni2.deserv.net
 DOMAIN,ipserver.su.nikos-mebel.ru
 DOMAIN,ipserver.su.ww2.ru
-DOMAIN,itunes.apple.com
-DOMAIN,iwork.apple.com
 DOMAIN,klarnet.net.ru
 DOMAIN,metro.spb.ru
 DOMAIN,ns.avantel.ru
