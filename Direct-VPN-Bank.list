@@ -1,6 +1,8 @@
 # AUTHOR: Azat
 # NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
+DOMAIN-KEYWORD,t-bank
+DOMAIN-KEYWORD,tinkoff
 DOMAIN-SUFFIX,акибанк.рф
 DOMAIN-SUFFIX,александровский-банк.рф
 DOMAIN-SUFFIX,александровскийбанк.рф
