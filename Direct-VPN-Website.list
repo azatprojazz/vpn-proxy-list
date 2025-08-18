@@ -1,6 +1,7 @@
 # AUTHOR: Azatprojazz
 # NAME: Direct vpn
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
+DOMAIN-KEYWORD,adguard
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,awsdns
 DOMAIN-KEYWORD,dropbox
