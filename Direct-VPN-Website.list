@@ -4,7 +4,9 @@
 DOMAIN-KEYWORD,adguard
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,awsdns
+DOMAIN-KEYWORD,cryptomator
 DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,encrypted
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,kinopoisk
@@ -20,9 +22,7 @@ DOMAIN-KEYWORD,yandex
 DOMAIN-SUFFIX,101DOMAIN.COM
 DOMAIN-SUFFIX,1cloud.ru
 DOMAIN-SUFFIX,1gb.ru
-DOMAIN-SUFFIX,shamelessfansite.com
 DOMAIN-SUFFIX,1gb.u
-DOMAIN-SUFFIX,lomont.site
 DOMAIN-SUFFIX,1popov.com
 DOMAIN-SUFFIX,1sept.net
 DOMAIN-SUFFIX,24open.ru
@@ -101,7 +101,6 @@ DOMAIN-SUFFIX,bspb.ru
 DOMAIN-SUFFIX,bstd.ru
 DOMAIN-SUFFIX,bul.net
 DOMAIN-SUFFIX,burdanet.ru
-DOMAIN-SUFFIX,calendar.google.com
 DOMAIN-SUFFIX,canon-europa.com
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,caravan.ru
@@ -165,7 +164,6 @@ DOMAIN-SUFFIX,dnsworker.net
 DOMAIN-SUFFIX,dnsynergy.org
 DOMAIN-SUFFIX,dobrohost.ru
 DOMAIN-SUFFIX,dockerclients.ru
-DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,doctorpiter.ru
 DOMAIN-SUFFIX,domain.com
 DOMAIN-SUFFIX,domaincontrol.com
@@ -179,6 +177,7 @@ DOMAIN-SUFFIX,doska.ru
 DOMAIN-SUFFIX,dpd.ru
 DOMAIN-SUFFIX,drweb.com
 DOMAIN-SUFFIX,dsi.ru
+DOMAIN-SUFFIX,dzen.ru
 DOMAIN-SUFFIX,e-kazan.ru
 DOMAIN-SUFFIX,e-xpedition.ru
 DOMAIN-SUFFIX,e1.ru
@@ -368,6 +367,7 @@ DOMAIN-SUFFIX,liteforex.com
 DOMAIN-SUFFIX,litres.ru
 DOMAIN-SUFFIX,liveinternet.ru
 DOMAIN-SUFFIX,locum.ru
+DOMAIN-SUFFIX,lomont.site
 DOMAIN-SUFFIX,lpmotor.ru
 DOMAIN-SUFFIX,luadns.net
 DOMAIN-SUFFIX,luxcdn.com
@@ -638,6 +638,7 @@ DOMAIN-SUFFIX,serveroid.com
 DOMAIN-SUFFIX,setup.ru
 DOMAIN-SUFFIX,sform.ru
 DOMAIN-SUFFIX,sgu.ru
+DOMAIN-SUFFIX,shamelessfansite.com
 DOMAIN-SUFFIX,shneider-host.ru
 DOMAIN-SUFFIX,shoptips.ru
 DOMAIN-SUFFIX,sibmama.ru
