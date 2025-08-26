@@ -7,11 +7,9 @@ DOMAIN-KEYWORD,awsdns
 DOMAIN-KEYWORD,cryptomator
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,encrypted
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,kinopoisk
 DOMAIN-KEYWORD,kinopub
-DOMAIN-KEYWORD,mail.ru
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,mountainduck
 DOMAIN-KEYWORD,ozone
@@ -251,6 +249,7 @@ DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gigedns.net
 DOMAIN-SUFFIX,gismeteo.ru
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,gksmdns.com
 DOMAIN-SUFFIX,gldn.net
 DOMAIN-SUFFIX,go2land.com
@@ -376,6 +375,7 @@ DOMAIN-SUFFIX,m1cloud.net
 DOMAIN-SUFFIX,macomnet.ru
 DOMAIN-SUFFIX,magiachisel.ru
 DOMAIN-SUFFIX,magnit.com
+DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,majordomo.ru
 DOMAIN-SUFFIX,mamba.ru
 DOMAIN-SUFFIX,managed-ns.com
@@ -829,6 +829,7 @@ DOMAIN,sigma.sbrf.ru
 DOMAIN,srv.lukoil.com
 DOMAIN,vip10.deserv.net
 DOMAIN,vip2.deserv.net
+DOMAIN,webdav.cloud.mail.ru
 DOMAIN,weh.pornopomidorno.com
 DOMAIN,xgqn.ahc.ovh
 DOMAIN,xn--d1acpjx3f.xn--p1ai
