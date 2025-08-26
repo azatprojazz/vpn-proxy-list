@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,kinopoisk
 DOMAIN-KEYWORD,kinopub
+DOMAIN-KEYWORD,mail.ru
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,mountainduck
 DOMAIN-KEYWORD,ozone
@@ -220,7 +221,6 @@ DOMAIN-SUFFIX,fips.ru
 DOMAIN-SUFFIX,first-ns.de
 DOMAIN-SUFFIX,firstvds.ru
 DOMAIN-SUFFIX,flops.ru
-DOMAIN-SUFFIX,fmail.ru
 DOMAIN-SUFFIX,ford.com
 DOMAIN-SUFFIX,forexpf.ru
 DOMAIN-SUFFIX,fornex.com
@@ -376,7 +376,6 @@ DOMAIN-SUFFIX,m1cloud.net
 DOMAIN-SUFFIX,macomnet.ru
 DOMAIN-SUFFIX,magiachisel.ru
 DOMAIN-SUFFIX,magnit.com
-DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,majordomo.ru
 DOMAIN-SUFFIX,mamba.ru
 DOMAIN-SUFFIX,managed-ns.com
