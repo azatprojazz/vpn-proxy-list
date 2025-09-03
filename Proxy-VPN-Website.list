@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,anilibria.tv
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,api.trae
 DOMAIN-SUFFIX,aplawrence.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,aqicn.org
@@ -769,6 +770,8 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,torrent.by
 DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,tracker.wf
+DOMAIN-SUFFIX,trae-api
+DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trellix.com
