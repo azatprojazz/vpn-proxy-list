@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,awsdns
 DOMAIN-KEYWORD,cryptomator
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,encrypted
+DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,kinopoisk
 DOMAIN-KEYWORD,kinopub
@@ -249,9 +250,9 @@ DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gigedns.net
 DOMAIN-SUFFIX,gismeteo.ru
 DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,gksmdns.com
 DOMAIN-SUFFIX,gldn.net
+DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,go2land.com
 DOMAIN-SUFFIX,goodnet.ru
 DOMAIN-SUFFIX,google.com
@@ -279,6 +280,7 @@ DOMAIN-SUFFIX,hostlife.net
 DOMAIN-SUFFIX,hostline.ru
 DOMAIN-SUFFIX,hostmonster.com
 DOMAIN-SUFFIX,hotlog.ru
+DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,hrf.su
 DOMAIN-SUFFIX,hse.ru
 DOMAIN-SUFFIX,hsmedia.ru
