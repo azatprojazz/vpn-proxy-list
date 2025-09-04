@@ -3,6 +3,7 @@
 # REPO: https://github.com/azatprojazz/vpn-proxy-list
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,anzu-us
+DOMAIN-KEYWORD,api.trae
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,copilot
@@ -30,6 +31,8 @@ DOMAIN-KEYWORD,raycast
 DOMAIN-KEYWORD,sharewood
 DOMAIN-KEYWORD,supercell
 DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,trae-api
+DOMAIN-KEYWORD,trae.ai
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,windsurf
 DOMAIN-KEYWORD,youtube
@@ -71,7 +74,6 @@ DOMAIN-SUFFIX,anilibria.tv
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
-DOMAIN-SUFFIX,api.trae
 DOMAIN-SUFFIX,aplawrence.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,aqicn.org
@@ -771,8 +773,6 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,torrent.by
 DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,tracker.wf
-DOMAIN-SUFFIX,trae-api
-DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trellix.com
