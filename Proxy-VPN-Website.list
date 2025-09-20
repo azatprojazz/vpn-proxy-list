@@ -31,6 +31,7 @@ DOMAIN-KEYWORD,papervpn
 DOMAIN-KEYWORD,perplexity
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,raycast
+DOMAIN-KEYWORD,redtube
 DOMAIN-KEYWORD,sharewood
 DOMAIN-KEYWORD,supercell
 DOMAIN-KEYWORD,tiktok
@@ -630,7 +631,6 @@ DOMAIN-SUFFIX,redis.com
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,redshieldvpn.com
-DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,refactoring.guru
 DOMAIN-SUFFIX,refinitiv.com
 DOMAIN-SUFFIX,regex101.com
